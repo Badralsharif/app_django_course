@@ -1,2 +1,2 @@
 # app_django_course
-course django
+course django development
